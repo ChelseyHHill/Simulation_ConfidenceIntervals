@@ -13,7 +13,7 @@ ui <- fluidPage( # Application title
                    value = 0.90,
                    min = 0,
                    max = 1,
-                   step = 0.05),
+                   step = 0.01),
       sliderInput("n",
                   "Sample Size:",
                   min = 10,
