@@ -1,6 +1,6 @@
 library(shiny)
 library(plotrix)
-
+#l
 # 1. UI Section (Paste content from your old ui.R here)
 ui <- fluidPage( # Application title
   titlePanel("Simulation: Confidence Intervals"),
