@@ -33,7 +33,7 @@ ui <- fluidPage( # Application title
       plotOutput("distPlot")
     )
   )
-))
+)
 
   
   # 2. Server Section (Paste content from your old server.R here)
